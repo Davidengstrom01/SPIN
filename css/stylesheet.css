@@ -61,6 +61,12 @@ body{
 }
 
 /*--- TEXT INSTÄLLNINGAR ---*/
+.OurBrandText{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .topTextContainer h1 {
 	font-size:60px;
 	text-align:left;
